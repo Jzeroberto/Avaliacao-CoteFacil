@@ -1,0 +1,7 @@
+libs
+
+requests
+scrapy
+pynacl
+selenium
+webdriver-manager

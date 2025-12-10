@@ -1,0 +1,14 @@
+Virtual Private Network (VPN) - É como se fosse um túnel no qual conecta a minha rede local em outro rede, no caso, a rede da AWS.
+Subnets - Sao divisoes da rede dentro da AWS.
+Security Groups - É o firewall dos recursos dentro das subnets.
+
+Relacao dos 3 e um exemplo:
+
+A VPN conecta sua empresa à rede da AWS.
+→ É como abrir uma estrada/túnel segura entre os dois locais.
+
+As subnets organizam essa rede dentro da AWS.
+→ É como dividir o “bairro AWS” em áreas públicas e privadas.
+
+Os Security Groups protegem os recursos dentro das subnets.
+→ Funcionam como porteiros de cada casa nessa rede.
